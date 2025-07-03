@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+       Human     0.7829    1.0000    0.8783       101
+    NonHuman     1.0000    0.7200    0.8372       100
+
+    accuracy                         0.8607       201
+   macro avg     0.8915    0.8600    0.8577       201
+weighted avg     0.8909    0.8607    0.8578       201
